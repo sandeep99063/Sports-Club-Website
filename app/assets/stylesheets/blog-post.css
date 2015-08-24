@@ -1,0 +1,84 @@
+/*!
+ * Start Bootstrap - Blog Post HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+.har {
+    padding-top: 70px;  Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. 
+}
+.hv
+{
+	opacity:100%;
+}
+
+.blogwall
+{
+ background:center no-repeat fixed url('/assets/sq.jpg');
+ background-size: cover;
+}
+.blogwall1
+{
+ background:center no-repeat fixed url('/assets/tt1.jpg');
+ background-size: cover;
+}
+.blogwall2
+{
+ background:center no-repeat fixed url('/assets/go.jpg');
+ background-size: cover;
+}
+.blogwall3
+{
+ background:center no-repeat fixed url('/assets/bas.jpg');
+ background-size: cover;
+}
+.blogwall4
+{
+ background:center no-repeat fixed url('/assets/sw.jpg');
+ background-size: cover;
+}
+.blogwall5
+{
+ background:center no-repeat fixed url('/assets/ccc.jpg');
+ background-size: cover;
+}
+.blogwall6
+{
+ background:center no-repeat fixed url('/assets/po.jpg');
+ background-size: cover;
+}
+.blogwall7
+{
+ background:center no-repeat fixed url('/assets/ba.jpg');
+ background-size: cover;
+}
+.get
+{
+	color:#0489B1;
+}
+.met
+{
+	color:#FE2E64;
+	
+}
+.upar
+{
+	margin-top: 80px;
+}
+.si
+{
+	max-width: 80%;
+	margin-left: 25px;
+}
+.fire
+{
+	color: #FE2E2E;
+}
+.wind
+{
+	color:#0174DF;
+}
+.wellopa
+{
+	background-color:rgba(0, 0, 0, 0.2);
+}
